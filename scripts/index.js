@@ -41,22 +41,22 @@
 // }
 
 
-let testScore = 92 ; 
-let grade ;
+// let testScore = 92 ; 
+// let grade ;
  
-switch(true){
-    case testScore >= 90 :
-        grade = 'A';
-        break;
-    case testScore >= 80 :
-        grade = 'B';
-        break;
-    case testScore >= 70 :
-        grade = 'C';
-        break;
-    case testScore >= 60 :
-        grade = 'D';
-        break;
-    default :
-        grade = 'F';
-}
+// switch(true){
+//     case testScore >= 90 :
+//         grade = 'A';
+//         break;
+//     case testScore >= 80 :
+//         grade = 'B';
+//         break;
+//     case testScore >= 70 :
+//         grade = 'C';
+//         break;
+//     case testScore >= 60 :
+//         grade = 'D';
+//         break;
+//     default :
+//         grade = 'F';
+// }
